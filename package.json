@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leantony/laravel-grid.git"
+    "url": "git+https://github.com/bahtity/laravel-grid.git"
   },
   "keywords": [
     "laravel",
@@ -24,12 +24,8 @@
     "pjax",
     "bootstrap"
   ],
-  "author": "chachaantony@gmail.com",
+  
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/leantony/laravel-grid/issues"
-  },
-  "homepage": "https://github.com/leantony/laravel-grid#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-es2015": "^6.24.1",
