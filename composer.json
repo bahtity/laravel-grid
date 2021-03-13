@@ -14,16 +14,8 @@
     "laravel5",
     "laravel6"
   ],
-  "homepage": "https://github.com/leantony/laravel-grid",
-  "authors": [
-    {
-      "name": "Antony [leantony] Chacha",
-      "email": "chachaantony@gmail.com",
-      "role": "Developer"
-    }
-  ],
   "require": {
-    "illuminate/view": "^5.5|^6",
+    "illuminate/view": "^5.5|^6|^8",
     "illuminate/support": "^5.5|^6",
     "illuminate/console": "^5.5|^6",
     "illuminate/contracts": "^5.5|^6",
@@ -54,16 +46,8 @@
     }
   },
   "extra": {
-    "laravel": {
-      "providers": [
-        "Leantony\\Grid\\Providers\\GridServiceProvider"
-      ],
-      "aliases": {
-        "Modal": "Leantony\\Grid\\Facades\\Modal"
-      }
-    },
     "branch-alias": {
-      "dev-master": "2.0.x-dev"
+      "dev-master": "master"
     }
   },
   "minimum-stability": "dev",
